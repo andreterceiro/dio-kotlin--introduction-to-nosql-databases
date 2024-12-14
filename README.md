@@ -14,7 +14,7 @@ Teacher talked about that besides de other differences, one difference in relati
 
 ![disadvantages](images/disadvantages.png)
 
-
+!
 # Key-value type of NoSQL databases
 
 ![key value](images/key-value-type.png)
@@ -37,3 +37,8 @@ Characteristics:
 - Efficient queries;
 - Complex data modeling;
 - Used as example on e-commerce catalogs because the schema can vary, different informations (structure) can be stored.
+
+
+# Column typew of NoSQL databases
+
+![column type](images/column-type.png)
