@@ -13,3 +13,8 @@ Teacher talked about that besides de other differences, one difference in relati
 ![advantages](images/advantages.png)
 
 ![disadvantages](images/disadvantages.png)
+
+
+# Different types of NoSQL databases
+
+![key value](images/key-value.png)
