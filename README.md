@@ -6,3 +6,8 @@ Teacher talked about that besides de other differences, one difference in relati
 # Differences between SQL ans NoSQL databases
 
 ![differences](images/differences-between-sql-and-nosql-databases.png)
+
+
+# A advantages and disadvantages
+
+![advantages](images/advantages.png)
