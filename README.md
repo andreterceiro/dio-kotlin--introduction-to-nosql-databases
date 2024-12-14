@@ -49,3 +49,8 @@ Characteristics:
 - Flexible schema;
 - Efficient data retrieve;
 - Used as example in logs.
+
+
+# Graph type of NoSQL databases
+
+![graph type](images/graph-type.png)
