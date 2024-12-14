@@ -39,6 +39,13 @@ Characteristics:
 - Used as example on e-commerce catalogs because the schema can vary, different informations (structure) can be stored.
 
 
-# Column typew of NoSQL databases
+# Column type of NoSQL databases
 
 ![column type](images/column-type.png)
+
+Characteristics:
+
+- Good for horizontal scaling;
+- Flexible schema;
+- Efficient data retrieve;
+- Used as example in logs.
