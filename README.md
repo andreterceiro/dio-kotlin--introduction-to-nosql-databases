@@ -24,3 +24,8 @@ Characteristics:
 - Quick because the access is based in the desired key and because this databases works in memmory;
 - Good for horizontal scaling;
 - Example of use: session management, pub/sub systems and cache;
+
+
+# Document type of NoSQL databases
+
+![differences](images/document-type.png)
