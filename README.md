@@ -11,3 +11,5 @@ Teacher talked about that besides de other differences, one difference in relati
 # A advantages and disadvantages
 
 ![advantages](images/advantages.png)
+
+![disadvantages](images/disadvantages.png)
