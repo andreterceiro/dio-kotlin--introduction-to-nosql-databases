@@ -80,3 +80,5 @@ As Redis have the **pub/sub** characteristic, if we make a **simple** comparison
 Main uses of Redis:
 
 ![main uses of Redis](images/main-uses-of-redis.png)
+
+(5:00) - [link](https://web.dio.me/course/introducao-a-banco-de-dados-nosql/learning/6ba42970-cd9f-4910-b0ad-efb00630f313)
