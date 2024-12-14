@@ -63,3 +63,8 @@ Characteristics:
 # MongoBD
 
 Teacher talked about aggregation pipelines, that this is a more complex subject.
+
+
+# Redis
+
+Is a databas system that stores the information **in memmory**, used to **cache** as example. Speed is a characteristics of Redis.
