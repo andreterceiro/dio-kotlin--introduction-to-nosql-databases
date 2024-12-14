@@ -72,3 +72,5 @@ Is a databas system that stores the information **in memmory**, used to **cache*
 ![redis characteristics](images/redis-characteristics.png)
 
 When the teacher talked about the flexible data structure, she talked about the capacity of Redis to store an array, a string or a number as example.
+
+Comparing to document based, in this case the SGDB can store a document that have a key and a value. In a SGDB like Redis, the SGDB is based on a key and a value. In another words, the keys maybe have no relation, in a document based the keys are related based on the document itself.
