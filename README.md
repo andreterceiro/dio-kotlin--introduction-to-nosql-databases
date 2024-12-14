@@ -76,3 +76,7 @@ When the teacher talked about the flexible data structure, she talked about the 
 Comparing to document based, in this case the SGDB can store a document that have a key and a value. In a SGDB like Redis, the SGDB is based on a key and a value. In another words, the keys maybe have no relation, in a document based the keys are related based on the document itself.
 
 As Redis have the **pub/sub** characteristic, if we make a **simple** comparison, we can define Redis as equivalent to pub/sub system, RabbitMQ as example.
+
+Main uses of Redis:
+
+![main uses of Redis](images/main-uses-of-redis.png)
