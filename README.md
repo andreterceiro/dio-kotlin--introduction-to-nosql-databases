@@ -15,9 +15,9 @@ Teacher talked about that besides de other differences, one difference in relati
 ![disadvantages](images/disadvantages.png)
 
 
-# Key-value NoSQL databases
+# Key-value type of NoSQL databases
 
-![key value](images/key-value.png)
+![key value](images/key-value-type.png)
 
 Characteristics:
 
