@@ -15,6 +15,12 @@ Teacher talked about that besides de other differences, one difference in relati
 ![disadvantages](images/disadvantages.png)
 
 
-# Different types of NoSQL databases
+# Key-value NoSQL databases
 
 ![key value](images/key-value.png)
+
+Characteristics:
+
+- Quick because the access is based in the desired key and because this databases works in memmory;
+- Good for horizontal scaling;
+- Example of use: session management, pub/sub systems and cache;
