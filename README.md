@@ -58,3 +58,8 @@ Characteristics:
 Characteristics:
 
 - The relation in data is so important as the data. As example in social networks. This way we can search in a optimized way the friends in common in social networks.
+
+
+# MongoBD
+
+Teacher talked about aggregation pipelines, that this is a more complex subject.
