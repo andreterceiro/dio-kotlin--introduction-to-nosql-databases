@@ -70,3 +70,5 @@ Teacher talked about aggregation pipelines, that this is a more complex subject.
 Is a databas system that stores the information **in memmory**, used to **cache** as example. Speed is a characteristics of Redis.
 
 ![redis characteristics](images/redis-characteristics.png)
+
+When the teacher talked about the flexible data structure, she talked about the capacity of Redis to store an array, a string or a number as example.
