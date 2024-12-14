@@ -29,3 +29,11 @@ Characteristics:
 # Document type of NoSQL databases
 
 ![differences](images/document-type.png)
+
+Characteristics:
+
+- Does not demand a rigid structure of the data;
+- Easy edition of the schema based on the user document;
+- Efficient queries;
+- Complex data modeling;
+- Used as example on e-commerce catalogs because the schema can vary, different informations (structure) can be stored.
