@@ -84,3 +84,5 @@ Main uses of Redis:
 Main commands of Redis:
 
 ![main commands of redis](images/main-commands-of-redis.png)
+
+[Here](https://github.com/andreterceiro/dio-claro-spring--nosql-studies) in the section related to **"key-value"** I showed an example with Redis. I used several (not all) of these commands and others.
