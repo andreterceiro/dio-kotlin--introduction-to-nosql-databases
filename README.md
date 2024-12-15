@@ -88,3 +88,9 @@ Main commands of Redis:
 [Here](https://github.com/andreterceiro/dio-claro-spring--nosql-studies) in the section related to **"key-value"** I showed an example with Redis. I used several (not all) of these commands and others.
 
 Also, teacher passed us the link "http://try.redis.io/". besides the link is offline nowdays, we can serach in Google using the string "try Redis".
+
+There, teacher explained that we can use the "help" command parametrized, like:
+
+```
+HELP SET
+```
