@@ -105,3 +105,9 @@ GET nome
 We can find for a key based on part of its name, see:
 
 ![keys command](images/keys-command-redis.png)
+
+I will not repeat in this document things that I remember that I mentioned [in this document](https://github.com/andreterceiro/dio-claro-spring--nosql-studies). I ask you to see all the README.md in this link. I do not remember if I mentioned this information there: you can set a negative number to expire to delete a key. This is similar to use the command "del":
+
+```
+EXPIRE key_name -1
+```
