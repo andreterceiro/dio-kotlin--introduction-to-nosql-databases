@@ -130,3 +130,5 @@ OK
 See the return of the command `incr`. You do not need the get command, it already return the updated value.
 
 The same idea can be applied to the command `decr`.
+
+Redis does not take care of the case (uppercase/lowercase) of the **command** (like "`set`" or "`get`").
