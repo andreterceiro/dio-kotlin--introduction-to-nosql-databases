@@ -132,3 +132,5 @@ See the return of the command `incr`. You do not need the get command, it alread
 The same idea can be applied to the command `decr`.
 
 Redis does not take care of the case (uppercase/lowercase) of the **command** (like "`set`" or "`get`").
+
+I used in Linux Mint the app `redis-cli` to interact with Redis. Please see [this link](https://github.com/andreterceiro/dio-claro-spring--nosql-studies) (section related to key-value systems) to see how to install it in your system.
