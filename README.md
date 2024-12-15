@@ -159,3 +159,10 @@ abort
 Another comment of the previous commands:
 - **lpush** allows you to set the element of a list. The values needs to be specified separanting them by a space. Subsequent calls will not overwrite the previous values, but add new ones;
 - **lrange** allows you to get the values of a list. The values will be returned using the LIFO idea. The first value returned is the last one added to the list. And you **must** specify the range of the indexes as the last parameter. You can  use negative values, as example -1 or -2.
+
+To know the length of a list, you can use the command `llen`. Example:
+
+```
+127.0.0.1:6379> llen nomes
+(integer) 6
+```
