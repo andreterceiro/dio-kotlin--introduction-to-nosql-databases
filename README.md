@@ -111,3 +111,20 @@ I will not repeat in this document things that I remember that I mentioned [in t
 ```
 EXPIRE key_name -1
 ```
+
+We can also use the command `incr`:
+
+```
+127.0.0.1:6379> set acessos 0
+OK
+127.0.0.1:6379> incr acessos
+(integer) 1
+127.0.0.1:6379> get acessos
+"1"
+127.0.0.1:6379> incr acessos
+(integer) 2
+127.0.0.1:6379> get acessos
+"2"
+```
+
+See the return of the command `incr`. You do not need the get command, it already return the updated value.
