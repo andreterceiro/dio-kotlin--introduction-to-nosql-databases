@@ -134,3 +134,24 @@ The same idea can be applied to the command `decr`.
 Redis does not take care of the case (uppercase/lowercase) of the **command** (like "`set`" or "`get`").
 
 I used in Linux Mint the app `redis-cli` to interact with Redis. Please see [this link](https://github.com/andreterceiro/dio-claro-spring--nosql-studies) (section related to key-value systems) to see how to install it in your system.
+
+You can abort Redis or close the terminal window, but the values is still there, see:
+
+```
+127.0.0.1:6379> lpush nomes "Julio" "Enzo" "Andre"
+(integer) 3
+```
+
+abort
+
+```
+127.0.0.1:6379> lpush nomes "Julio" "Enzo" "Andre"
+(integer) 6
+127.0.0.1:6379> lrange nomes 0 -1
+1) "Andre"
+2) "Enzo"
+3) "Julio"
+4) "Andre"
+5) "Enzo"
+6) "Julio"
+```
