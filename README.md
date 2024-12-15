@@ -155,3 +155,6 @@ abort
 5) "Enzo"
 6) "Julio"
 ```
+
+Another comment of the previous commands:
+- **lpush** allows you to set the element of a list. The values needs to be specified separanting them by a space. Subsequent calls will not overwrite the previous values, but add new ones;
