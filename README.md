@@ -94,3 +94,10 @@ There, teacher explained that we can use the "help" command parametrized, like:
 ```
 HELP SET
 ```
+
+Teacher also explanied that in Redis we can't find anything using the value setted, we need to use the key. Example:
+
+```
+SET nome "Enzo"
+GET nome    
+```
