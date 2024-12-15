@@ -101,3 +101,7 @@ Teacher also explanied that in Redis we can't find anything using the value sett
 SET nome "Enzo"
 GET nome    
 ```
+
+We can find for a key based on part of its name, see:
+
+![keys command](images/keys-command-redis.png)
