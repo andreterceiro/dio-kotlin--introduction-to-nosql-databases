@@ -176,6 +176,7 @@ See another strategy in relation to the data modeling in MongoDB:
 
 See, in this strategy independent of a user that may have many reservation, we have a reservation pointing to an user.
 
+One comment about the **use** clausule of MongoDB: you can select a database with this clausule or if a database does not exists, a new database will be created.
 
 # Redis
 
