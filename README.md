@@ -68,6 +68,10 @@ Summary of MongoDB:
 
 ![summary of MongoDB](images/summary-mongodb.png)
 
+Advantages of MongoDB:
+
+![advantages of MongoDB](images/advantages-of-mongodb.png)
+
 
 # Redis
 
