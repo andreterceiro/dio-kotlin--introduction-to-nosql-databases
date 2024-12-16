@@ -149,6 +149,8 @@ Exernal references:
 ![external references related to MongoDB](images/external-references-mongodb.png)
 
 Teacher teached us that the question of scalability related to MongoDB is interfered by the data modeling that you defined.
+ 
+Teacher teached that the modeling must be based on the queries that be done more frequently.
 
 
 # Redis
