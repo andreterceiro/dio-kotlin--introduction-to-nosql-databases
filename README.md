@@ -84,6 +84,8 @@ Example of use case: geolocalizaition systems.
 
 [External reference documentation](https://www.mongodb.com/pt-br/docs/manual/introduction/)
 
+An external reference is showed [here](https://github.com/andreterceiro/dio-claro-spring--nosql-studies?tab=readme-ov-file#document-based). I elaborated this document when I was studying a content of a Java Spring bootcamp.
+
 
 # Redis
 
