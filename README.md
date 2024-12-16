@@ -92,6 +92,8 @@ In the installation using http://cloud.mongodb.com, teacher showed us that there
 
 ![allowing access from external hosts](images/allowing-access-from-external-hosts.png)
 
+The minor structure of a MongoDB cluster in MongoDB Cloud is formed by 3 nodes.
+
 
 # Redis
 
