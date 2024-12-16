@@ -134,6 +134,12 @@ Although the field "**_id**" can be automatically generated, we can easily speci
 { "_id" : 1, "nome" : "Enzo" }
 ```
 
+Here teacher showed us how to make an insertion in MongoDB:
+
+![insertion in MongoDB](images/simple-insert-01-in-mongodb,png)
+
+As you can see in the previous image, we can see an example of inserting of an array an an example of inserting a document inside another document. 
+
 
 # Redis
 
