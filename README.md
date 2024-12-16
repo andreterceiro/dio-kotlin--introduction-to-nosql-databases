@@ -82,6 +82,8 @@ Uses of MongoDB:
 
 Example of use case: geolocalizaition systems.
 
+[External reference documentation](https://www.mongodb.com/pt-br/docs/manual/introduction/)
+
 
 # Redis
 
