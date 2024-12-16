@@ -180,6 +180,10 @@ One comment about the **use** clausule of MongoDB: you can select a database wit
 
 As teacher explained, in the client MongoDB compass a database will be showed only if it has 1 collection.
 
+You can see the shell to interact with the database clicking in the arrow in the bottom of the next screen:
+
+![MongoDB Compass - shell](images/shell-in-mongodb-compass.png)
+
 # Redis
 
 Is a databas system that stores the information **in memmory**, used to **cache** as example. Speed is a characteristics of Redis.
