@@ -86,6 +86,8 @@ Example of use case: geolocalizaition systems.
 
 An external reference is showed [here](https://github.com/andreterceiro/dio-claro-spring--nosql-studies?tab=readme-ov-file#document-based). I elaborated this document when I was studying a content of a Java Spring bootcamp.
 
+Teacher showed us [here](https://web.dio.me/course/introducao-a-banco-de-dados-nosql/learning/42c36130-0720-4981-b02f-a175825cc18a?back=/track/formacao-kotlin-backend-developer&tab=undefined&moduleId=undefined) an alternative to install MongoDB using [this link](http://cloud.mongodb.com). I showed other alternatives in [this document](https://github.com/andreterceiro/dio-claro-spring--nosql-studies?tab=readme-ov-file#document-based).
+
 
 # Redis
 
