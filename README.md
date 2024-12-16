@@ -64,6 +64,10 @@ Characteristics:
 
 Teacher talked about aggregation pipelines, that this is a more complex subject.
 
+Summary of MongoDB:
+
+![summary of MongoDB](images/summary-mongodb.png)
+
 
 # Redis
 
