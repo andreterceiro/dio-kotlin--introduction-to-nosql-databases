@@ -112,6 +112,10 @@ Data types in MongoDB:
 
 Object ID is the information that is automatically inserted in the "**_id**" field.
 
+MongoDB complex data types:
+
+![MongoDB complex data types](images/mongodb-complex-data-types.png)
+
 
 # Redis
 
