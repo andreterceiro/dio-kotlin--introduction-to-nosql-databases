@@ -80,6 +80,8 @@ Uses of MongoDB:
 
 ![uses of MongoDB](images/uses-of-mongodb.png)
 
+Example of use case: geolocalizaition systems.
+
 
 # Redis
 
