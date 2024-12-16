@@ -140,6 +140,9 @@ Here teacher showed us how to make an insertion in MongoDB:
 
 As you can see in the previous image, we can see an example of inserting of an array an an example of inserting a document inside another document. 
 
+Example of how to insert a GeoJSON:
+
+![GEO JSON in MongoDB](images/geojson-mongodb.png)
 
 # Redis
 
