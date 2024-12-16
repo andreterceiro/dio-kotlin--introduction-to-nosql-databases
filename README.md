@@ -148,6 +148,9 @@ Exernal references:
 
 ![external references related to MongoDB](images/external-references-mongodb.png)
 
+Teacher teached us that the question of scalability related to MongoDB is interfered by the data modeling that you defined.
+
+
 # Redis
 
 Is a databas system that stores the information **in memmory**, used to **cache** as example. Speed is a characteristics of Redis.
