@@ -118,6 +118,23 @@ MongoDB complex data types:
 
 MongoDB has relationships. This is right. But MongoDB does not have referential integrity. Using references will allow us to make searches similar to use a join in a SQL database.
 
+Although the field "**_id**" can be automatically generated, we can easily specify its value, see:
+
+```
+> db.banana.find({});
+{ "_id" : ObjectId("67005ff16a36c359666484c9"), "age" : 43 }
+{ "_id" : ObjectId("6760350eb46b9e5a224b1e10"), "age" : 42 }
+{ "_id" : ObjectId("6760370e72173fe04aa8431b"), "name" : "Jefinho" }
+> db.banana.insertOne({"_id": 1, "nome": "Enzo"})
+{ "acknowledged" : true, "insertedId" : 1 }
+> db.banana.find({});
+{ "_id" : ObjectId("67005ff16a36c359666484c9"), "age" : 43 }
+{ "_id" : ObjectId("6760350eb46b9e5a224b1e10"), "age" : 42 }
+{ "_id" : ObjectId("6760370e72173fe04aa8431b"), "name" : "Jefinho" }
+{ "_id" : 1, "nome" : "Enzo" }
+```
+
+
 # Redis
 
 Is a databas system that stores the information **in memmory**, used to **cache** as example. Speed is a characteristics of Redis.
