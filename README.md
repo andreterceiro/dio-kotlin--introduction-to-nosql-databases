@@ -94,6 +94,10 @@ In the installation using http://cloud.mongodb.com, teacher showed us that there
 
 The minor structure of a MongoDB cluster in MongoDB Cloud is formed by 3 nodes.
 
+An interesting part of the MongoDB Cloud is the observability part that came by default:
+
+![MongoDB Cloud Observability](images/mongodb-cloud-observability.png)
+
 
 # Redis
 
