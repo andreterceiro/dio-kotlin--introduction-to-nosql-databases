@@ -152,6 +152,10 @@ Teacher teached us that the question of scalability related to MongoDB is interf
  
 Teacher teached that the modeling must be based on the queries that be done more frequently.
 
+Teacher also talked that the strategy of data modeling depends on the searches that will bo done and the strategy of updating the documents. Maybe you will not normalize your data, maybe have information duplicated in differents documents beacuse you want to optimize queries and use sub documents. But you can also think if it will create a problem to update the documents.
+
+![inner documents in MongoDB](images/inner-documents-mongodb.png)
+
 
 # Redis
 
