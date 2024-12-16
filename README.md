@@ -170,6 +170,12 @@ Teacher commented in relation to 1:N relationship in the slide that differ from 
 
 When not to use inner documents: when a document is accessed independent of the "father" document.
 
+See another strategy in relation to the data modeling in MongoDB:
+
+![mongodb relationship another strategy](images/mongodb-relationship-another-strategy.png)
+
+See, in this strategy independent of a user have many reservation, we have a reservation pointing to an user.
+
 
 # Redis
 
