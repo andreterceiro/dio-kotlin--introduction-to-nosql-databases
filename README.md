@@ -72,6 +72,10 @@ Advantages of MongoDB:
 
 ![advantages of MongoDB](images/advantages-of-mongodb.png)
 
+Disadvantages of MongoDB:
+
+![disadvantages of MongoDB](images/disadvantages-of-mongodb.png)
+
 
 # Redis
 
