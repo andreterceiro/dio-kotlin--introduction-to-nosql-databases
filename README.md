@@ -190,6 +190,8 @@ Finding documents:
 
 ![finding documents](images/finding-documents.png)
 
+About **update()**, **updateOne()** and **updateMany()** MongoDB methods: "updateMany() : It update all documents in a collection with matching filter. updateOne() : It update only one top most document in a collection with matching filter. update() : By default, the update() method updates a single document.". [Reference](https://www.quora.com/What-is-the-difference-between-update-updateOne-and-updateMany-in-MongoDB#:~:text=updateMany()%20%3A%20It%20update%20all,method%20updates%20a%20single%20document
+
 
 # Redis
 
