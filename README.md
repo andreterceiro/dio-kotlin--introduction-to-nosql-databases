@@ -196,7 +196,7 @@ We do not have only **$set** available on updating documents. We have **$inc**, 
 
 ![$inc](images/$inc-on-update-mongodb.png)
 
-And with **$push** we can add elements to an array.
+And with **$push** we can add elements to an array. Important: we do not have to provide an array. We need to provide only the element to be added to the array.
 
 
 # Redis
