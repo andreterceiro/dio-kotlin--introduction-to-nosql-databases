@@ -98,6 +98,8 @@ An interesting part of the MongoDB Cloud is the observability part that came by 
 
 ![MongoDB Cloud Observability](images/mongodb-cloud-observability.png)
 
+We have to remember the basic structure. MongoDD does not have tables. A **database** is formed by **collections**. A **collection** is formed by **documents**. The documents do not need to have the same structure.
+
 
 # Redis
 
