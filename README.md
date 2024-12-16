@@ -166,6 +166,8 @@ Signals that you have to use inner documents in MongoDB:
 
 ![MongoDB - when use inner documents](images/mongodb-when-use-inner-documents.png)
 
+Teacher commented in relation to 1:N relationship in the slide that differ from a N:M relationship, where many document are related to many other documents.
+
 
 # Redis
 
