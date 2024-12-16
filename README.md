@@ -162,6 +162,10 @@ Here teacher showed an example of a document in MongoDB. As you can see in the n
 
 ![example of document in MongoDB](images/example-of-document-mongodb.png)
 
+Signals that you have to use inner documents in MongoDB:
+
+![MongoDB - when use inner documents](images/mongodb-when-use-inner-documents.png)
+
 
 # Redis
 
