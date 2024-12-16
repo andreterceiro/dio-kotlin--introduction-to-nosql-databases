@@ -144,6 +144,10 @@ Example of how to insert a GeoJSON:
 
 ![GEO JSON in MongoDB](images/geojson-mongodb.png)
 
+Exernal references:
+
+![external references related to MongoDB](images/external-references-mongodb.png)
+
 # Redis
 
 Is a databas system that stores the information **in memmory**, used to **cache** as example. Speed is a characteristics of Redis.
