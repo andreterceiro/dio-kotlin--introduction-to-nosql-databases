@@ -116,8 +116,7 @@ MongoDB complex data types:
 
 ![MongoDB complex data types](images/mongodb-complex-data-types.png)
 
-MongoDB has relationships. This is right. But MongoDB does not have referential integrity
-
+MongoDB has relationships. This is right. But MongoDB does not have referential integrity. Using references will allow us to make searches similar to use a join in a SQL database.
 
 # Redis
 
