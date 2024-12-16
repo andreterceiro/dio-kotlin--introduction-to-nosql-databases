@@ -156,6 +156,12 @@ Teacher also talked that the strategy of data modeling depends on the searches t
 
 ![inner documents in MongoDB](images/inner-documents-mongodb.png)
 
+Here teacher showed an example of a document in MongoDB. As you can see in the next image, "reservas" is a inner document while "destino" is a reference for another document. Observsations:
+- She justified that a "destino" could exists independent of a "reserva", so this make sense to be stored in an external document;
+- In the other hand, is different to "reserva" case, that makes sense to be an inner document.
+
+![example of document in MongoDB](images/example-of-document-mongodb.png)
+
 
 # Redis
 
