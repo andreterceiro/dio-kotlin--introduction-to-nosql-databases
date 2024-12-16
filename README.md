@@ -110,6 +110,8 @@ Data types in MongoDB:
 
 ![data types in MongoDB](images/mongodb-datatypes.png)
 
+Object ID is the information that is automatically inserted in the "**_id**" field.
+
 
 # Redis
 
