@@ -178,6 +178,8 @@ See, in this strategy independent of a user that may have many reservation, we h
 
 One comment about the **use** clausule of MongoDB: you can select a database with this clausule or if a database does not exists, a new database will be created.
 
+As teacher explained, in the client MongoDB compass a database will be showed only if it has 1 collection.
+
 # Redis
 
 Is a databas system that stores the information **in memmory**, used to **cache** as example. Speed is a characteristics of Redis.
