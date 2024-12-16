@@ -174,7 +174,7 @@ See another strategy in relation to the data modeling in MongoDB:
 
 ![mongodb relationship another strategy](images/mongodb-relationship-another-strategy.png)
 
-See, in this strategy independent of a user have many reservation, we have a reservation pointing to an user.
+See, in this strategy independent of a user that may have many reservation, we have a reservation pointing to an user.
 
 
 # Redis
