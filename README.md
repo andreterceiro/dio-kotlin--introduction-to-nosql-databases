@@ -168,6 +168,8 @@ Signals that you have to use inner documents in MongoDB:
 
 Teacher commented in relation to 1:N relationship in the slide that differ from a N:M relationship, where many document are related to many other documents.
 
+When not to use inner documents: when a document is accessed independent of the "father" document.
+
 
 # Redis
 
