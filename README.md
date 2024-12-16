@@ -184,6 +184,9 @@ You can see the shell to interact with the database clicking in the arrow in the
 
 ![MongoDB Compass - shell](images/shell-in-mongodb-compass.png)
 
+If you insert a document (example: using db.{collection-name}.insertOne()) a collection will be created if it does not exists.
+
+
 # Redis
 
 Is a databas system that stores the information **in memmory**, used to **cache** as example. Speed is a characteristics of Redis.
