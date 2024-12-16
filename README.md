@@ -76,6 +76,10 @@ Disadvantages of MongoDB:
 
 ![disadvantages of MongoDB](images/disadvantages-of-mongodb.png)
 
+Uses of MongoDB:
+
+![uses of MongoDB](images/uses-of-mongodb.png)
+
 
 # Redis
 
