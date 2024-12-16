@@ -116,6 +116,8 @@ MongoDB complex data types:
 
 ![MongoDB complex data types](images/mongodb-complex-data-types.png)
 
+MongoDB has relationships. This is right. But MongoDB does not have referential integrity
+
 
 # Redis
 
