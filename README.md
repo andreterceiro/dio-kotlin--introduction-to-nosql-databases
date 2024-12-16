@@ -186,6 +186,10 @@ You can see the shell to interact with the database clicking in the arrow in the
 
 If you insert a document (example: using db.{collection-name}.insertOne()) a collection will be created if it does not exists.
 
+Finding documents:
+
+![finding documents](images/finding-documents.png)
+
 
 # Redis
 
