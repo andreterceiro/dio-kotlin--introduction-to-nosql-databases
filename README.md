@@ -230,6 +230,13 @@ db.usuarios.find({"endereco.cidade": "São Paulo"})
 - $nin (![])
 
 
+## Projections
+
+Define which fields we want to retrieve from a document. Like in a SQL "world":
+
+select **nome**, **idade** from usuarios
+
+
 # Redis
 
 Is a databas system that stores the information **in memmory**, used to **cache** as example. Speed is a characteristics of Redis.
