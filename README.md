@@ -218,6 +218,18 @@ db.usuarios.find({"endereco.cidade": "São Paulo"})
 - $not
 
 
+### Comparison
+
+- $eq (==)
+- $ne (!=)
+- $gt (>)
+- $gte (>=)
+- $lt (<)
+- $lte (<=)
+- $in ([])
+- $nin (![])
+
+
 # Redis
 
 Is a databas system that stores the information **in memmory**, used to **cache** as example. Speed is a characteristics of Redis.
