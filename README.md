@@ -242,6 +242,11 @@ select **nome**, **idade** from usuarios
 You can order ascending or descending based on a field
 
 
+## Limiting
+
+You can limit the number of documents to retrieve.
+
+
 # Redis
 
 Is a databas system that stores the information **in memmory**, used to **cache** as example. Speed is a characteristics of Redis.
