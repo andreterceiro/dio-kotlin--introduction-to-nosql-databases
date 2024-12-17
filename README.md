@@ -217,6 +217,12 @@ db.usuarios.find({"endereco.cidade": "São Paulo"})
 - $or
 - $not
 
+You can use **$and** in this two ways:
+
+```
+db.usuarios.find({"nome": "Carlos", "idade": 33})
+```
+
 
 ### Comparison
 
