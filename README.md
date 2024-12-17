@@ -246,6 +246,11 @@ Example of use of **ne**:
 db.viagens.usuarios.find({$and: [{idade: {$ne: 20}, {nome: "Carlos"}}]})
 ```
 
+Example of use $gte:
+
+```
+db.viagens.usuarios.find({idade: {$gte: 20}})
+```
 
 ## Projections
 
