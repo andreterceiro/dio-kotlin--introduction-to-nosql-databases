@@ -252,6 +252,13 @@ Example of use **$gte**:
 db.viagens.usuarios.find({idade: {$gte: 20}})
 ```
 
+Example of use **$in**:
+
+```
+db.viagens.usuarios.find( {idade: {$in: [20, 30]} } )
+```
+
+
 ## Projections
 
 Define which fields we want to retrieve from a document. Like in a SQL "world":
