@@ -221,6 +221,10 @@ You can use **$and** in this two ways:
 
 ```
 db.usuarios.find({"nome": "Carlos", "idade": 33})
+```
+
+Or you can use this format. $or you specify in a similar way:
+```
 db.usuarios.find({$and: [{"nome": "Carlos", "idade": 33}]})
 ```
 
