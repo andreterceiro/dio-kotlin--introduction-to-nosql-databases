@@ -199,6 +199,18 @@ We do not have only **$set** available on updating documents. We have **$inc**, 
 And with **$push** we can add elements to an array. Important: we do not have to provide an array. We need to provide only the element to be added to the array.
 
 
+## Operators
+
+
+### Equality
+
+Use this format:
+
+```
+db.usuarios.find({"endereco.cidade": "São Paulo"})
+```
+
+
 # Redis
 
 Is a databas system that stores the information **in memmory**, used to **cache** as example. Speed is a characteristics of Redis.
