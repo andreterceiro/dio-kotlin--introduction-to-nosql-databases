@@ -247,6 +247,17 @@ You can order ascending or descending based on a field
 You can limit the number of documents to retrieve.
 
 
+## Pagination
+
+You can paginate using **skip** (where to start, like fifth page) and **limit** (number of documents per page).
+
+Example:
+
+```
+db.usuarios.find().skip(5).limit(10)
+```
+
+
 # Redis
 
 Is a databas system that stores the information **in memmory**, used to **cache** as example. Speed is a characteristics of Redis.
