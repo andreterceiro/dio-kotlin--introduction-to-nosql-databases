@@ -265,6 +265,10 @@ Define which fields we want to retrieve from a document. Like in a SQL "world":
 
 select **nome**, **idade** from usuarios
 
+Example:
+
+db.viagens.usuarios.find({idade: {$in: [20, 30]}}, **{nome: 1}**)
+
 
 ## Ordenation
 
