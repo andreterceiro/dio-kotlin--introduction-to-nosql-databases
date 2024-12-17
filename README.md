@@ -221,6 +221,7 @@ You can use **$and** in this two ways:
 
 ```
 db.usuarios.find({"nome": "Carlos", "idade": 33})
+db.usuarios.find({$and: [{"nome": "Carlos", "idade": 33}]})
 ```
 
 
