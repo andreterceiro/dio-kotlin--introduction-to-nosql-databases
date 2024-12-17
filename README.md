@@ -274,6 +274,12 @@ db.viagens.usuarios.find({idade: {$in: [20, 30]}}, **{nome: 1}**)
 
 You can order ascending or descending based on a field
 
+Example:
+
+db.viagens.usuarios.find({idade: {$in: [20, 30]}}, {nome: 1}).**sort({idade: 1, nome: -1}**)
+
+Ascending order: 1. Descending order: -1
+
 
 ## Limiting
 
