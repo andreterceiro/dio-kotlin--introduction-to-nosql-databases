@@ -240,13 +240,13 @@ db.usuarios.find({$and: [{"nome": "Carlos", "idade": 33}]})
 - $in ([])
 - $nin (![])
 
-Example of use of **ne**:
+Example of use of **$ne**:
 
 ```
 db.viagens.usuarios.find({$and: [{idade: {$ne: 20}, {nome: "Carlos"}}]})
 ```
 
-Example of use $gte:
+Example of use **$gte**:
 
 ```
 db.viagens.usuarios.find({idade: {$gte: 20}})
