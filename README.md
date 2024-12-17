@@ -300,6 +300,11 @@ Example:
 db.usuarios.find().skip(5).limit(10)
 ```
 
+## Useful links
+
+![Repository of the teacher](https://github.com/pamelaborges/dio-db-nosql)
+
+
 
 # Redis
 
