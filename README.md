@@ -270,7 +270,7 @@ Example:
 db.viagens.usuarios.find({idade: {$in: [20, 30]}}, **{nome: 1}**)
 
 
-## Ordenation
+## Sorting
 
 You can order ascending or descending based on a field
 
