@@ -276,7 +276,7 @@ You can order ascending or descending based on a field
 
 Example:
 
-db.viagens.usuarios.find({idade: {$in: [20, 30]}}, {nome: 1}).**sort({idade: 1, nome: -1}**)
+db.viagens.usuarios.find({idade: {$in: [20, 30]}}, {nome: 1})**.sort({idade: 1, nome: -1})**
 
 Ascending order: 1. Descending order: -1
 
@@ -284,6 +284,10 @@ Ascending order: 1. Descending order: -1
 ## Limiting
 
 You can limit the number of documents to retrieve.
+
+Example:
+
+db.viagens.usuarios.find({idade: {$in: [20, 30]}}, {nome: 1}).sort({idade: 1, nome: -1})**.limit(10)**
 
 
 ## Pagination
