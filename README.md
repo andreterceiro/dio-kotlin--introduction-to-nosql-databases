@@ -302,9 +302,9 @@ db.usuarios.find().skip(5).limit(10)
 
 ## Useful links
 
-![Repository of the teacher](https://github.com/pamelaborges/dio-db-nosql)
+[Repository of the teacher](https://github.com/pamelaborges/dio-db-nosql)
 
-
+![MongoDB reference manual](images/mongodb-reference-on-manual.png)
 
 # Redis
 
